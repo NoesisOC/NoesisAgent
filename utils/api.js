@@ -3,7 +3,7 @@
  * Provides easy methods to make POST requests to api.NOESISOC.com/sisyphus/*
  */
 
-class InjectMagicAPI {
+class NoesisAPI {
   constructor() {
     this.baseUrl = "https://api.noesisoc.com/sisyphus";
   }
