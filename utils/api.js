@@ -1,19 +1,19 @@
 /**
- * Inject Magic API Utility
- * Provides easy methods to make POST requests to api.injectmagic.com/sisyphus/*
+ * NOESIS API Utility
+ * Provides easy methods to make POST requests to api.NOESISOC.com/sisyphus/*
  */
 
 class InjectMagicAPI {
   constructor() {
-    this.baseUrl = "https://api.injectmagic.com/sisyphus";
+    this.baseUrl = "https://api.noesisoc.com/sisyphus";
   }
 
   get apiKey() {
-    return process.env.INJECT_MAGIC_API_KEY;
+    return process.env.NOESIS_API_KEY;
   }
 
   /**
-   * Make a POST request to an Inject Magic endpoint
+   * Make a POST request to an NOESIS endpoint
    * @param {string} endpoint - The endpoint path (without /sisyphus/)
    * @param {object} data - The data to send in the request body
    * @param {object} options - Additional fetch options
@@ -22,7 +22,7 @@ class InjectMagicAPI {
   async post(endpoint, data = {}, options = {}) {
     try {
       if (!this.apiKey) {
-        throw new Error("INJECT_MAGIC_API_KEY is required but not provided");
+        throw new Error("NOESIS_API_KEY is required but not provided");
       }
 
       const url = `${this.baseUrl}/${endpoint.replace(/^\//, "")}`;
@@ -58,7 +58,7 @@ class InjectMagicAPI {
         status: response.status,
       };
     } catch (error) {
-      console.error(`Inject Magic API Error: ${error.message}`);
+      console.error('NOESIS API Error: ${error.message}`);
       return {
         success: false,
         error: error.message,
