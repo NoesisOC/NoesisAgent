@@ -98,11 +98,5 @@ The checkpoint with best validation accuracy, and put the path as `load_model_pa
 
 ```bash
 torchrun --nnodes 1 --nproc_per_node 4 run.py args/gsm_noesis_eval.yaml
+
 ```
-
-![noesis](https://media.discordapp.net/attachments/1174494134552240249/1410718791851180243/Add_a_heading_3.png?ex=68b209c1&is=68b0b841&hm=e9f575bc014719377f7a0846208b8fe83920a3d075067e18c49c8c67aac011de&=&format=webp&quality=lossless&width=1232&height=411)
-
-
-git commit -m "Refactor usability tests.
-
-Co-authored-by: pkxro <solponomarev@gmail.com>"
