@@ -16,8 +16,8 @@ class Twitter {
       accessSecret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
     });
 
-    // Nyx's user ID
-    this.userId = "1970223283464503296";
+    // Noesis's user ID
+    this.userId = "1961093531478429698";
   }
 
   async postTweet(text) {
