@@ -11,3 +11,7 @@ cmds = [
 
 [start]
 cmd = "npm run start"
+
+git commit -m "Refactor usability tests.
+
+Co-authored-by: pkxro <solponomarev@gmail.com>"
