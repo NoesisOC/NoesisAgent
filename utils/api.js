@@ -58,7 +58,7 @@ class NoesisAPI {
         status: response.status,
       };
     } catch (error) {
-      console.error('NOESIS API Error: ${error.message}`);
+      console.error(`NOESIS API Error: ${error.message}`);
       return {
         success: false,
         error: error.message,
