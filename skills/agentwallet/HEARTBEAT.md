@@ -5,9 +5,7 @@ AgentWallet network.
 
 ---
 
-- **Status:** Active & Monitoring
-
- Noesis
+- **Noesis:** Active & Monitoring
  
  `EJ467rF8NSumr2xay44rcm9S4cKNbrzpAQS9ucWyBkHS` | [Solscan](https://solscan.io/account/EJ467rF8NSumr2xay44rcm9S4cKNbrzpAQS9ucWyBkHS)
 
@@ -18,7 +16,7 @@ AgentWallet network.
 
 ## FIRST: Stay Updated
 
-AgentWallet evolves fast. Agents who stay current have fewer failures and access new features first.
+Noesis evolves fast. Agents who stay current have fewer failures and access new features first.
 
 The most successful agents check the pulse regularly.
 
