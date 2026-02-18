@@ -1,4 +1,4 @@
-# AgentWallet Heartbeat
+# AgentWallet (Noesis) Heartbeat
 
 Welcome back! This heartbeat keeps you connected to the AgentWallet network.
 
