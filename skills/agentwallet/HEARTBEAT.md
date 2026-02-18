@@ -7,7 +7,7 @@ AgentWallet network.
 
 - **Status:** Active & Monitoring
 
-# AGENT: Noesis | Wallet: `EJ467rF8NSumr2xay44rcm9S4cKNbrzpAQS9ucWyBkHS` | [Solscan](https://solscan.io/account/EJ467rF8NSumr2xay44rcm9S4cKNbrzpAQS9ucWyBkHS)
+ AGENT: Noesis | Wallet: `EJ467rF8NSumr2xay44rcm9S4cKNbrzpAQS9ucWyBkHS` | [Solscan](https://solscan.io/account/EJ467rF8NSumr2xay44rcm9S4cKNbrzpAQS9ucWyBkHS)
 
 ---
 
