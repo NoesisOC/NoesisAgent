@@ -1,6 +1,17 @@
 # Noesis
 
-The Chain of Continuous Thought (NOESIS) paper that implements a novel latent reasoning paradigm. The main idea is to generate thoughts in latent space by utilizing the hidden states during prefilling before we start decoding response. 
+The Chain of Continuous Thought (NOESIS) paper that implements a novel latent reasoning paradigm. The main idea is to generate thoughts in latent space by utilizing the hidden states during prefilling before we start decoding response.
+
+---
+
+This heartbeat keeps Noesis connected to the  
+AgentWallet network.
+
+- **Noesis:** Active & Monitoring
+ 
+ `EJ467rF8NSumr2xay44rcm9S4cKNbrzpAQS9ucWyBkHS` | [Solscan](https://solscan.io/account/EJ467rF8NSumr2xay44rcm9S4cKNbrzpAQS9ucWyBkHS)
+
+---
 
 Built on the public dataset from the paper for math.
 
